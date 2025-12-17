@@ -49,12 +49,6 @@ in the root directory of this repository:
 All analyses were conducted using Jupyter notebooks, which are provided
 for transparency and reproducibility.
 
-Due to file size limitations and software licensing constraints, raw
-molecular dynamics trajectories and docking project files are not
-included. The derived interaction energies, processed descriptors, and
-intermediate results used in all analyses are sufficient to reproduce
-the reported findings.
-
 ---
 
 ## Environment
